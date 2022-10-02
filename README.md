@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djheery
-- 👀 I’m interested in music & learning to code
-- 🌱 I’m currently learning php
+- 👀 I’m interested in music & programming
+- 🌱 I’m buiding a music practice app
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me - email
 
